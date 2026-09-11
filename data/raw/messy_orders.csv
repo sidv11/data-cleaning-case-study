@@ -1,0 +1,155 @@
+order_id,customer_name,category,price,weight,order_date,express_shipping
+1016,Vivaan Joshi,Art  Supplies,651.16,1641,2025-02-01,No
+1046,Arjun Reddy,art supplies,478.0,0.16kg,2025-01-10,True
+1076,Rohan Mehta, Games,Rs.804.26,1160g,08 May 2025,1
+1122,Mira Kulkarni,toys,"1,474.40",2.87kg,2025-03-26,No
+1040,Diya Nair,Art Supplies,637.47 INR,264,2025-02-27,No
+1010,Aarav Sharma,TOYS,"1,005.63",2.16kg,27/06/2025,0
+1128,Kabir Singh, Games,1452.31 INR,8,2025-01-18,Y
+1088,Aarav Sharma,toys,650.04 INR,464,2025-02-10,no
+1115,Sara Khan,art supplies,Rs.1260.69,894,22 Jan 2025,True
+1043,Aarav Sharma, Games,223.08 INR,2541g,24/04/2025,yes
+1131,Sara Khan,Games,385.06,601g,2025-01-08,FALSE
+1118,Ananya Rao,Art  Supplies,Rs.804.51,64g,08 Sep 2025,N
+1031,Ananya Rao, Toys,"1,027.13",536,2025-09-30,True
+1109,Kabir Singh,games,1434.42 INR,2321,02 Jul 2025,1
+1039,Arjun Reddy,Art  Supplies,Rs.574.1,0.99kg,07/07/2025,no
+1121,Arjun Reddy,Games,175.03,558,14/01/2025,False
+1104,Sara Khan,books,1402.17 INR,729,08-18-2025,TRUE
+1095,Diya Nair, Toys,"1,435.43",2.74kg,2025-09-10,0
+1019,Diya Nair,Games,260.61,1.47kg,09/06/2025,Y
+1086,Diya Nair,books,470.3 INR,2604g,2025-09-11,N
+1049,Kabir Singh, Toys,327.71,1561,09-17-2025,False
+1030,Kabir Singh,toys,Rs.509.45,1336,13 May 2025,Y
+1054,Sara Khan,Book ,"1,169.80",1213g,16/03/2025,FALSE
+1047,Mira Kulkarni,Art  Supplies,247.90,2028,07 Oct 2025,True
+1120,Isha Patel,games,805.58,2656g,08/03/2025,FALSE
+1002,Aarav Sharma,Books,706.54,421g,10 Oct 2025,Yes
+1005,Arjun Reddy,Toys,Rs.889.68,2.06kg,08-07-2025,0
+1072,Kabir Singh,Book ,879.81,735g,24/03/2025,N
+1058,Kabir Singh,toys,Rs.1120.8,2712g,24 Aug 2025,1
+1108,Arjun Reddy,art supplies,994.49,671,07-23-2025,1
+1133,Arjun Reddy,TOYS,932.21,2121,2025-09-10,Y
+1025,Ananya Rao,books,775.2,2.73kg,26/06/2025,TRUE
+1059,Diya Nair,TOYS,Rs.1173.53,2506g,03-17-2025,yes
+1113,Rohan Mehta, Games,339.67,1621g,2025-09-09,yes
+1035,Diya Nair, Games,846.13,1015,09-25-2025,True
+1107,Isha Patel,Games,143.08,1981,02 Feb 2025,No
+1126,Kabir Singh,Toy,981.32,1522,16 May 2025,no
+1020,Ananya Rao,TOYS,Rs.769.55,95,04-16-2025,Y
+1014,Mira Kulkarni,Books,Rs.778.43,0.88kg,16 Mar 2025,True
+1071,Vivaan Joshi,ArtSupplies,493.73 INR,2674,14 May 2025,TRUE
+1002,Aarav Sharma,Books,706.54,421g,10 Oct 2025,Yes
+1070,Diya Nair,art supplies,1001.93 INR,0.19kg,2025-10-09,Y
+1117,Isha Patel,games,938.93 INR,1721,2025-06-07,1
+1138,Isha Patel,TOYS,1347.67 INR,216,17 May 2025,TRUE
+1079,Arjun Reddy,Books,"1,418.03",2308g,21/01/2025,Y
+1082,Diya Nair,games,Rs.1442.47,1.6kg,2025-10-08,Yes
+1130,Aarav Sharma,Toys,102.66 INR,0.36kg,2025-07-02,1
+1101,Mira Kulkarni,games,Rs.445.65,678g,2025-05-25,no
+1057,Aarav Sharma,games,1216.57,2155,03 Feb 2025,yes
+1077,Vivaan Joshi,ArtSupplies,1288.01,182g,06 Aug 2025,False
+1112,Vivaan Joshi,Books,901.58 INR,2067,2025-03-29,no
+1062,Diya Nair,Toys,504.71,1841,18 May 2025,N
+1051,Mira Kulkarni,Games,1451.9 INR,1510g,04/04/2025,no
+1060,Sara Khan, Games,285.95,2039g,18/05/2025,FALSE
+1006,Ananya Rao,ArtSupplies,Rs.447.05,1000,02-11-2025,True
+1050,Kabir Singh,Books,Rs.742.69,1.37kg,05-15-2025,no
+1119,Sara Khan,Art  Supplies,"1,271.00",0.37kg,03-07-2025,1
+1112,Vivaan Joshi,Books,901.58 INR,,2025-03-29,no
+1007,Ananya Rao,Art  Supplies,502.4,2146g,2025-08-03,no
+1032,Diya Nair,toys,Rs.951.59,629g,31/08/2025,True
+1015,Sara Khan, Games,Rs.545.37,2112,28 Jan 2025,TRUE
+1002,Aarav Sharma,Books,,421g,10 Oct 2025,Yes
+1110,Ananya Rao,toys,646.41,74g,2025-08-11,1
+1087,Vivaan Joshi,Art Supplies,Rs.1428.21,0.21kg,2025-01-13,1
+1105,Isha Patel,Toy,1093.3 INR,203g,07-08-2025,Y
+1021,Arjun Reddy,TOYS,1469.88,1070,09-23-2025,Y
+1116,Vivaan Joshi,BOOKS,Rs.271.4,789,22/01/2025,TRUE
+1066,Ananya Rao,games,Rs.267.18,49,05-29-2025,no
+1075,Vivaan Joshi,Art  Supplies,Rs.1143.92,0.85kg,01 Feb 2025,yes
+1136,Arjun Reddy,BOOKS,188.34,1958,03/10/2025,1
+1024,Diya Nair, Games,1483.24 INR,953g,2025-02-22,0
+1085,Mira Kulkarni,Art Supplies,1215.69,2080g,04-13-2025,N
+1121,Arjun Reddy,Games,175.03,558,14/01/2025,False
+1063,Isha Patel,Books,297.58 INR,0.44kg,09-18-2025,No
+1093,Aarav Sharma,Art  Supplies,186.67,0.63kg,02-02-2025,no
+1081,Isha Patel,Toys,Rs.519.79,0.82kg,01/01/2025,True
+1090,Isha Patel,TOYS,212.15,2348g,17 Apr 2025,no
+1084,Vivaan Joshi,BOOKS,416.73,1385,08-04-2025,TRUE
+1026,Vivaan Joshi,toys,Rs.768.72,2.38kg,20/06/2025,FALSE
+1068,Aarav Sharma,TOYS,Rs.988.58,1138g,08-12-2025,N
+1001,Rohan Mehta,games,1010.96,386,07/07/2025,True
+1100,Arjun Reddy,Books,1191.43 INR,0.87kg,05-18-2025,yes
+1022,Mira Kulkarni, Games,857.74 INR,914,2025-04-10,1
+1124,Sara Khan, Games,431.6 INR,864g,04 Apr 2025,Y
+1129,Sara Khan, Games,704.56 INR,590g,2025-09-08,False
+1136,Arjun Reddy,BOOKS,188.34,1958,03/10/2025,1
+1140,Mira Kulkarni,books,1144.36 INR,1642g,2025-06-18,1
+1073,Arjun Reddy,art supplies,733.63 INR,1.31kg,2025-10-08,N
+1069,Vivaan Joshi,Games,"1,236.56",2250,15/04/2025,Yes
+1111,Isha Patel, Toys,908.49 INR,2.33kg,08/03/2025,Yes
+1091,Vivaan Joshi,Games,168.01,1576g,05 Oct 2025,N
+1103,Diya Nair,toys,1276.62 INR,1252g,30/04/2025,Yes
+1114,Aarav Sharma,Book ,539.65,2967g,2025-03-24,False
+1125,Ananya Rao,games,335.41 INR,2223g,01-25-2025,0
+1067,Vivaan Joshi, Toys,1498.31,2.78kg,21/05/2025,yes
+1056,Rohan Mehta,TOYS,"1,443.28",1.7kg,2025-01-10,0
+1106,Mira Kulkarni,TOYS,Rs.152.57,1390g,07-29-2025,Y
+1134,Aarav Sharma,Toys,843.67,1023g,23/03/2025,No
+1004,Rohan Mehta,Art Supplies,Rs.898.85,2432g,2025-10-20,no
+1096,Aarav Sharma,BOOKS,Rs.1251.68,968,06-17-2025,0
+1080,Sara Khan,Books,1003.35 INR,2616g,09 May 2025,FALSE
+1112,Vivaan Joshi,Books,901.58 INR,2067,2025-03-29,no
+1061,Diya Nair,BOOKS,1092.13 INR,1.42kg,2025-03-02,yes
+1065,Vivaan Joshi,ArtSupplies,"1,117.78",1.16kg,03-03-2025,Yes
+1078,Aarav Sharma,Art Supplies,647.52,0.78kg,2025-02-25,Y
+1138,Isha Patel,TOYS,1347.67 INR,216,17 May 2025,TRUE
+1038,Diya Nair,books,,2.66kg,2025-03-25,Y
+1048,Mira Kulkarni,Games,Rs.579.13,2.97kg,2025-01-28,Yes
+1098,Diya Nair,Toy,Rs.862.01,2.66kg,02-06-2025,False
+1092,Ananya Rao, Games,1355.69,1683,07 May 2025,Yes
+1007,Ananya Rao,Art  Supplies,502.4,2146g,2025-08-03,no
+1055,Arjun Reddy,art supplies,,,28/04/2025,Yes
+1033,Ananya Rao,Toy,842.55,2344g,2025-01-30,N
+1045,Kabir Singh,Books,352.79 INR,1250,2025-09-29,yes
+1003,Mira Kulkarni,Toy,"1,426.74",955g,2025-01-24,yes
+1034,Aarav Sharma,Games,810.31,1865g,2025-06-16,FALSE
+1055,Arjun Reddy,art supplies,1373.75,2393,28/04/2025,Yes
+1044,Diya Nair,Toys,574.15,1.88kg,2025-01-23,No
+1041,Kabir Singh,TOYS,Rs.154.46,2.28kg,08-05-2025,1
+1038,Diya Nair,books,1145.1,2.66kg,2025-03-25,Y
+1027,Diya Nair,Art  Supplies,1140.44,651,2025-03-29,Yes
+1083,Kabir Singh,Art Supplies,129.52,2651,04/08/2025,yes
+1097,Sara Khan,Games,816.15,1062g,28/07/2025,TRUE
+1102,Vivaan Joshi,TOYS,Rs.1489.42,412,26/08/2025,No
+1127,Ananya Rao,BOOKS,"1,170.26",773g,01-25-2025,True
+1139,Kabir Singh, Games,Rs.1399.93,2128g,2025-01-08,yes
+1013,Vivaan Joshi,games,"1,055.50",668g,2025-02-12,Y
+1123,Sara Khan,games,321.43 INR,0.47kg,15 Sep 2025,N
+1074,Rohan Mehta,TOYS,877.78 INR,1558g,2025-05-13,Yes
+1023,Mira Kulkarni,Book ,597.14,1194g,08-30-2025,N
+1132,Diya Nair,Books,Rs.188.2,1105,07-25-2025,Yes
+1009,Sara Khan,games,911.43,433g,19 May 2025,FALSE
+1029,Aarav Sharma,Books,1218.9,571,2025-08-11,N
+1135,Sara Khan,Toy,Rs.1019.18,1742g,13 Apr 2025,False
+1053,Rohan Mehta, Toys,921.11,1277g,2025-06-05,No
+1064,Mira Kulkarni,games,"1,356.69",0.12kg,02 Jan 2025,TRUE
+1007,Ananya Rao,Art  Supplies,,2146g,2025-08-03,no
+1099,Mira Kulkarni,Toys,688.91,1009g,10 Mar 2025,0
+1121,Arjun Reddy,Games,175.03,558,14/01/2025,False
+1137,Diya Nair,Art Supplies,"1,138.20",975g,02-23-2025,N
+1052,Isha Patel,Art  Supplies,Rs.489.78,2117g,03/01/2025,yes
+1094,Ananya Rao, Games,160.06 INR,0.93kg,03/02/2025,N
+1017,Diya Nair,books,253.01,50g,2025-10-18,True
+1012,Diya Nair,Art Supplies,332.08,1139,12 Mar 2025,True
+1018,Ananya Rao,Toy,Rs.134.73,1542,03-18-2025,no
+1060,Sara Khan, Games,285.95,2039g,18/05/2025,FALSE
+1036,Diya Nair,books,682.71,0.98kg,04 May 2025,No
+1011,Rohan Mehta, Games,263.05,1227g,2025-03-08,1
+1055,Arjun Reddy,art supplies,1373.75,,28/04/2025,Yes
+1008,Diya Nair,Book ,153.93,2348,06-10-2025,FALSE
+1037,Kabir Singh,Books,Rs.1355.73,2636,2025-07-07,yes
+1089,Rohan Mehta,Book ,143.68,2.96kg,2025-08-15,No
+1042,Arjun Reddy,Book ,1080.28,0.22kg,04 Apr 2025,No
+1028,Sara Khan,Book ,Rs.1228.91,2441,08-31-2025,Y
